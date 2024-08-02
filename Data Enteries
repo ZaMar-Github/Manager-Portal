@@ -1,0 +1,143 @@
+using Microsoft.Playwright;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ManagerPortal
+{
+    public class Data_Entities
+    {
+        Basepage bp = new Basepage();
+        public async Task dataentires(IPage page)
+        {
+            await bp.Hover(page, "//a[text() =' Data Entries ']","Data entities field");
+            await bp.Wait(5000);
+            await bp.Click(page, "//li//a[text() = 'Projects']", "Logs is clicked");
+            await bp.Wait(5000);
+
+            await bp.Write(page, "//input[@placeholder = 'Name']","NightFax","Name of the Project");
+            await bp.Wait(5000);
+
+            // Upload the Icon
+            var fileInputedit = page.Locator("input[type='file']");
+            await fileInputedit.SetInputFilesAsync("C:/Users/Habiba Fatima/Pictures/images.jpeg");
+            await Task.Delay(4000);
+
+            //Click the done button 
+            await bp.Click(page, "//button[text() = ' Done ']","Upload Image");
+            await Task.Delay(7000);
+
+            //Create a Project
+            await bp.Click(page, "//button[text() = 'Create Project']","Create a project");
+            await Task.Delay(7000);
+
+            //1
+            await bp.Click(page, "//div[text() = ' Projects ']/../..//div[2]//following-sibling::p-paginator//button[3]","Show the project New added");
+            await Task.Delay(7000);
+
+            //2
+            await bp.Click(page, "//div[text() = ' Projects ']/../..//div[2]//following-sibling::p-paginator//button[2]", "Show the project New added");
+            await Task.Delay(7000);
+
+            //Assert the Value
+            await bp.Assertion(page, "//p[text()='NightFax']", "NightFax","Assert the Value");
+            await Task.Delay(7000);
+
+            //Edit Option
+            await bp.Click(page, "//p[text()='NightFax']/../..//following-sibling::td[3]//button", "Edit Button");
+            await Task.Delay(7000);
+
+            //Drop-down Open
+            await bp.Click(page, "//span[text()='Active']/..//following-sibling::div//span","Open the Drop-down");
+            await Task.Delay(7000);
+
+            //Delete the project
+            await bp.Click(page, "//li//span[text() = 'Deleted']","Delete the Porject");
+            await bp.Wait(3000);
+
+            //Update button
+            await bp.Click(page, "//button[text() = 'Update Project']","Update the project");
+            await bp.Wait(6000);
+
+
+            //Edit Option
+            await bp.Click(page, "//p[text()='Rentler']/../..//following-sibling::td[3]//button", "Edit Button");
+            await Task.Delay(7000);
+
+            //Drop-down Open
+            await bp.Click(page, "//span[text()='Active']/..//following-sibling::div//span", "Open the Drop-down");
+            await Task.Delay(7000);
+
+            //Disabled the project
+            await bp.Click(page, "//li//span[text() = 'Disabled']", "Delete the Porject");
+            await bp.Wait(3000);
+
+            //Update button
+            await bp.Click(page, "//button[text() = 'Update Project']", "Update the project");
+            await bp.Wait(6000);
+
+        }
+        public async Task Acess_Rights(IPage page)
+        {
+            await bp.Hover(page, "//a[text() =' Data Entries ']", "Data entities field");
+            await bp.Wait(5000);
+            await bp.Click(page, "//li//a[text() = 'Access Rights']","AcessRights");
+            await bp.Wait(9000);
+
+
+            await bp.Click(page, "//h1[text() = 'Access Rights']", "Screen");
+
+            await bp.Click(page, "//p-celleditor[text()=' Mr. Sohail Ashraf ']/..//following-sibling::td[4]//button[@icon = 'pi pi-pencil']", "Acess rights Edit");
+            await bp.Wait(5000);
+
+            await bp.SelectFilter(page, "//span[text()='Admin']/..//following-sibling::div//span", "//span[text()='Admin']/../div//following-sibling::div//input", "Em","App persona Dropdown");
+            await bp.Wait(5000);
+
+            await bp.SelectFilter(page, "//span[text()='Senior Manager']/..//following-sibling::div//span", "//span[text()='Senior Manager']/../div//following-sibling::div//input","Mi","Position Expected");
+            await bp.Wait(5000);
+            await bp.Keyboardaction(page, "down");
+            await bp.Keyboardaction(page, "enter");
+            await bp.Wait(5000);
+
+            await bp.Click(page, "//p-celleditor[text()=' Mr. Sohail Ashraf ']/../following-sibling::td[4]//button[1]","Save the changes");
+            await bp.Wait(5000);
+        }
+
+        public async Task Positions(IPage page)
+        {
+            await bp.Hover(page, "//a[text() =' Data Entries ']", "Data entities field");
+            await bp.Wait(5000);
+            await bp.Click(page, "//li//a[text() = 'Positions']", "AcessRights");
+            await bp.Wait(6000);
+
+            await bp.Click(page, "//h1[text() = 'POSITIONS']", "Screen");
+            await bp.Wait(4000);
+
+            await bp.Write(page, "//input[@placeholder = 'Name']", "Sr.UIUX", "Name of the Positions");
+            await bp.Wait(5000);
+
+            await bp.Click(page, "//button[text() ='Create Position']","Create a Position");
+            await bp.Wait(5000);
+            
+            //2
+            await bp.Click(page, "//h1[text() = 'POSITIONS']/../..//div[2]//following-sibling::p-paginator//span//button[2]", "Show the project New added");
+            await Task.Delay(7000);
+
+            //3
+            await bp.Click(page, "//h1[text() = 'POSITIONS']/../..//div[2]//following-sibling::p-paginator//span//button[3]", "Show the project New added");
+            await Task.Delay(7000);
+
+            await bp.Click(page, "//td[text()=' Sr.UIUX ']/..//td[6]//button", "Edit the new position");
+            await bp.Wait(5000);
+
+            await bp.Write(page, "//input[@placeholder = 'Name']","mid dev","write the edit ");
+            await bp.Wait(5000);
+
+            await bp.Click(page,"//button[text() = 'Update Position']","Update button ");
+            await bp.Wait(5000);
+        }
+
+    }
+}
