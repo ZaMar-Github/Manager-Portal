@@ -1,0 +1,308 @@
+2024-08-01T15:14:26.836Z pw:api navigating to "https://staging-performance.progatix.com/auth/login", waiting until "load"
+2024-08-01T15:14:27.686Z pw:api   "commit" event fired
+2024-08-01T15:14:27.688Z pw:api   navigated to "https://staging-performance.progatix.com/auth/login"
+2024-08-01T15:14:29.756Z pw:api   "domcontentloaded" event fired
+2024-08-01T15:14:30.031Z pw:api   navigated to "https://staging-performance.progatix.com/auth/login"
+2024-08-01T15:14:30.257Z pw:api   "load" event fired
+2024-08-01T15:14:30.765Z pw:api   "networkidle" event fired
+2024-08-01T15:14:31.301Z pw:api waiting for Locator("body")
+2024-08-01T15:14:31.338Z pw:api   locator resolved to visible <body>ΓÇª</body>
+2024-08-01T15:14:31.361Z pw:api taking element screenshot
+2024-08-01T15:14:31.364Z pw:api waiting for fonts to load...
+2024-08-01T15:14:31.366Z pw:api fonts loaded
+2024-08-01T15:14:31.367Z pw:api attempting scroll into view action
+2024-08-01T15:14:31.367Z pw:api   waiting for element to be stable
+2024-08-01T15:14:31.550Z pw:api     finding element using the selector "#username"
+2024-08-01T15:14:31.558Z pw:api   fill("adeel.shekhani@wiztech.pk")
+2024-08-01T15:14:31.558Z pw:api attempting fill action
+2024-08-01T15:14:31.559Z pw:api   waiting for element to be visible, enabled and editable
+2024-08-01T15:14:32.577Z pw:api waiting for Locator("body")
+2024-08-01T15:14:32.585Z pw:api   locator resolved to visible <body>ΓÇª</body>
+2024-08-01T15:14:32.600Z pw:api taking element screenshot
+2024-08-01T15:14:32.603Z pw:api waiting for fonts to load...
+2024-08-01T15:14:32.604Z pw:api fonts loaded
+2024-08-01T15:14:32.605Z pw:api attempting scroll into view action
+2024-08-01T15:14:32.605Z pw:api   waiting for element to be stable
+2024-08-01T15:14:32.772Z pw:api     finding element using the selector "#userPassword"
+2024-08-01T15:14:32.783Z pw:api   fill("123456")
+2024-08-01T15:14:32.784Z pw:api attempting fill action
+2024-08-01T15:14:32.784Z pw:api   waiting for element to be visible, enabled and editable
+2024-08-01T15:14:33.817Z pw:api waiting for Locator("body")
+2024-08-01T15:14:33.824Z pw:api   locator resolved to visible <body>ΓÇª</body>
+2024-08-01T15:14:33.832Z pw:api taking element screenshot
+2024-08-01T15:14:33.834Z pw:api waiting for fonts to load...
+2024-08-01T15:14:33.836Z pw:api fonts loaded
+2024-08-01T15:14:33.836Z pw:api attempting scroll into view action
+2024-08-01T15:14:33.836Z pw:api   waiting for element to be stable
+2024-08-01T15:14:34.033Z pw:api     finding element using the selector "//button[contains(@class,'bg-primary')]"
+2024-08-01T15:14:34.069Z pw:api attempting click action
+2024-08-01T15:14:34.070Z pw:api   waiting for element to be visible, enabled and stable
+2024-08-01T15:14:34.098Z pw:api   element is visible, enabled and stable
+2024-08-01T15:14:34.098Z pw:api   scrolling into view if needed
+2024-08-01T15:14:34.100Z pw:api   done scrolling
+2024-08-01T15:14:34.117Z pw:api   performing click action
+2024-08-01T15:14:34.146Z pw:api   click action done
+2024-08-01T15:14:34.146Z pw:api   waiting for scheduled navigations to finish
+2024-08-01T15:14:34.149Z pw:api   navigations have finished
+2024-08-01T15:14:35.166Z pw:api waiting for Locator("body")
+2024-08-01T15:14:35.173Z pw:api   locator resolved to visible <body>ΓÇª</body>
+2024-08-01T15:14:35.184Z pw:api taking element screenshot
+2024-08-01T15:14:35.187Z pw:api waiting for fonts to load...
+2024-08-01T15:14:35.189Z pw:api fonts loaded
+2024-08-01T15:14:35.189Z pw:api attempting scroll into view action
+2024-08-01T15:14:35.189Z pw:api   waiting for element to be stable
+2024-08-01T15:14:37.377Z pw:api waiting for Locator("//span[text()='Filter by Employee']") to be visible
+2024-08-01T15:14:37.550Z pw:api   navigated to "https://staging-performance.progatix.com/manager/report/feedback"
+2024-08-01T15:14:39.872Z pw:api   locator resolved to visible <span class="ng-tns-c51-12 p-dropdown-label p-inputtext p-placeholder ng-star-inserted">Filter by Employee</span>
+2024-08-01T15:14:39.886Z pw:api waiting for Locator(":scope")
+2024-08-01T15:14:39.892Z pw:api   locator resolved to <span class="ng-tns-c51-12 p-dropdown-label p-inputtext p-placeholder ng-star-inserted">Filter by Employee</span>
+2024-08-01T15:14:39.899Z pw:api waiting for Locator("//span[text()='Filter by Employee']") to be visible
+2024-08-01T15:14:39.903Z pw:api   locator resolved to visible <span class="ng-tns-c51-12 p-dropdown-label p-inputtext p-placeholder ng-star-inserted">Filter by Employee</span>
+2024-08-01T15:14:39.909Z pw:api     finding element using the selector "//span[text()='Filter by Employee']"
+2024-08-01T15:14:39.918Z pw:api attempting click action
+2024-08-01T15:14:39.918Z pw:api   waiting for element to be visible, enabled and stable
+2024-08-01T15:14:39.947Z pw:api   element is visible, enabled and stable
+2024-08-01T15:14:39.947Z pw:api   scrolling into view if needed
+2024-08-01T15:14:39.948Z pw:api   done scrolling
+2024-08-01T15:14:39.956Z pw:api   <div _ngcontent-thx-c98="" class="custom-loader ng-star-inserted">ΓÇª</div> from <loader-control _nghost-thx-c98="" _ngcontent-thx-c117="">ΓÇª</loader-control> subtree intercepts pointer events
+2024-08-01T15:14:39.956Z pw:api retrying click action, attempt #1
+2024-08-01T15:14:39.956Z pw:api   waiting for element to be visible, enabled and stable
+2024-08-01T15:14:39.979Z pw:api   element is visible, enabled and stable
+2024-08-01T15:14:39.980Z pw:api   scrolling into view if needed
+2024-08-01T15:14:39.985Z pw:api   done scrolling
+2024-08-01T15:14:39.992Z pw:api   <div _ngcontent-thx-c98="" class="custom-loader ng-star-inserted">ΓÇª</div> from <loader-control _nghost-thx-c98="" _ngcontent-thx-c117="">ΓÇª</loader-control> subtree intercepts pointer events
+2024-08-01T15:14:39.992Z pw:api retrying click action, attempt #2
+2024-08-01T15:14:39.992Z pw:api   waiting 20ms
+2024-08-01T15:14:40.020Z pw:api   waiting for element to be visible, enabled and stable
+2024-08-01T15:14:40.046Z pw:api   element is visible, enabled and stable
+2024-08-01T15:14:40.046Z pw:api   scrolling into view if needed
+2024-08-01T15:14:40.051Z pw:api   done scrolling
+2024-08-01T15:14:40.057Z pw:api   <div _ngcontent-thx-c98="" class="custom-loader ng-star-inserted">ΓÇª</div> from <loader-control _nghost-thx-c98="" _ngcontent-thx-c117="">ΓÇª</loader-control> subtree intercepts pointer events
+2024-08-01T15:14:40.057Z pw:api retrying click action, attempt #3
+2024-08-01T15:14:40.057Z pw:api   waiting 100ms
+2024-08-01T15:14:40.164Z pw:api   waiting for element to be visible, enabled and stable
+2024-08-01T15:14:40.196Z pw:api   element is visible, enabled and stable
+2024-08-01T15:14:40.196Z pw:api   scrolling into view if needed
+2024-08-01T15:14:40.201Z pw:api   done scrolling
+2024-08-01T15:14:40.207Z pw:api   <div _ngcontent-thx-c98="" class="custom-loader ng-star-inserted">ΓÇª</div> from <loader-control _nghost-thx-c98="" _ngcontent-thx-c117="">ΓÇª</loader-control> subtree intercepts pointer events
+2024-08-01T15:14:40.207Z pw:api retrying click action, attempt #4
+2024-08-01T15:14:40.207Z pw:api   waiting 100ms
+2024-08-01T15:14:40.313Z pw:api   waiting for element to be visible, enabled and stable
+2024-08-01T15:14:40.347Z pw:api   element is visible, enabled and stable
+2024-08-01T15:14:40.347Z pw:api   scrolling into view if needed
+2024-08-01T15:14:40.348Z pw:api   done scrolling
+2024-08-01T15:14:40.356Z pw:api   <div _ngcontent-thx-c98="" class="custom-loader ng-star-inserted">ΓÇª</div> from <loader-control _nghost-thx-c98="" _ngcontent-thx-c117="">ΓÇª</loader-control> subtree intercepts pointer events
+2024-08-01T15:14:40.356Z pw:api retrying click action, attempt #5
+2024-08-01T15:14:40.356Z pw:api   waiting 500ms
+2024-08-01T15:14:40.863Z pw:api   waiting for element to be visible, enabled and stable
+2024-08-01T15:14:40.896Z pw:api   element is visible, enabled and stable
+2024-08-01T15:14:40.896Z pw:api   scrolling into view if needed
+2024-08-01T15:14:40.901Z pw:api   done scrolling
+2024-08-01T15:14:40.906Z pw:api   <div _ngcontent-thx-c98="" class="custom-loader ng-star-inserted">ΓÇª</div> from <loader-control _nghost-thx-c98="" _ngcontent-thx-c117="">ΓÇª</loader-control> subtree intercepts pointer events
+2024-08-01T15:14:40.906Z pw:api retrying click action, attempt #6
+2024-08-01T15:14:40.906Z pw:api   waiting 500ms
+2024-08-01T15:14:41.413Z pw:api   waiting for element to be visible, enabled and stable
+2024-08-01T15:14:41.447Z pw:api   element is visible, enabled and stable
+2024-08-01T15:14:41.447Z pw:api   scrolling into view if needed
+2024-08-01T15:14:41.452Z pw:api   done scrolling
+2024-08-01T15:14:41.458Z pw:api   <div _ngcontent-thx-c98="" class="custom-loader ng-star-inserted">ΓÇª</div> from <loader-control _nghost-thx-c98="" _ngcontent-thx-c117="">ΓÇª</loader-control> subtree intercepts pointer events
+2024-08-01T15:14:41.459Z pw:api retrying click action, attempt #7
+2024-08-01T15:14:41.459Z pw:api   waiting 500ms
+2024-08-01T15:14:41.979Z pw:api   waiting for element to be visible, enabled and stable
+2024-08-01T15:14:42.014Z pw:api   element is visible, enabled and stable
+2024-08-01T15:14:42.014Z pw:api   scrolling into view if needed
+2024-08-01T15:14:42.019Z pw:api   done scrolling
+2024-08-01T15:14:42.026Z pw:api   <div _ngcontent-thx-c98="" class="custom-loader ng-star-inserted">ΓÇª</div> from <loader-control _nghost-thx-c98="" _ngcontent-thx-c117="">ΓÇª</loader-control> subtree intercepts pointer events
+2024-08-01T15:14:42.026Z pw:api retrying click action, attempt #8
+2024-08-01T15:14:42.026Z pw:api   waiting 500ms
+2024-08-01T15:14:42.542Z pw:api   waiting for element to be visible, enabled and stable
+2024-08-01T15:14:42.580Z pw:api   element is visible, enabled and stable
+2024-08-01T15:14:42.580Z pw:api   scrolling into view if needed
+2024-08-01T15:14:42.581Z pw:api   done scrolling
+2024-08-01T15:14:42.589Z pw:api   <div _ngcontent-thx-c98="" class="custom-loader ng-star-inserted">ΓÇª</div> from <loader-control _nghost-thx-c98="" _ngcontent-thx-c117="">ΓÇª</loader-control> subtree intercepts pointer events
+2024-08-01T15:14:42.589Z pw:api retrying click action, attempt #9
+2024-08-01T15:14:42.589Z pw:api   waiting 500ms
+2024-08-01T15:14:43.096Z pw:api   waiting for element to be visible, enabled and stable
+2024-08-01T15:14:43.130Z pw:api   element is visible, enabled and stable
+2024-08-01T15:14:43.130Z pw:api   scrolling into view if needed
+2024-08-01T15:14:43.135Z pw:api   done scrolling
+2024-08-01T15:14:43.142Z pw:api   <div _ngcontent-thx-c98="" class="custom-loader ng-star-inserted">ΓÇª</div> from <loader-control _nghost-thx-c98="" _ngcontent-thx-c117="">ΓÇª</loader-control> subtree intercepts pointer events
+2024-08-01T15:14:43.142Z pw:api retrying click action, attempt #10
+2024-08-01T15:14:43.142Z pw:api   waiting 500ms
+2024-08-01T15:14:43.650Z pw:api   waiting for element to be visible, enabled and stable
+2024-08-01T15:14:43.680Z pw:api   element is visible, enabled and stable
+2024-08-01T15:14:43.680Z pw:api   scrolling into view if needed
+2024-08-01T15:14:43.685Z pw:api   done scrolling
+2024-08-01T15:14:43.691Z pw:api   <div _ngcontent-thx-c98="" class="custom-loader ng-star-inserted">ΓÇª</div> from <loader-control _nghost-thx-c98="" _ngcontent-thx-c117="">ΓÇª</loader-control> subtree intercepts pointer events
+2024-08-01T15:14:43.691Z pw:api retrying click action, attempt #11
+2024-08-01T15:14:43.692Z pw:api   waiting 500ms
+2024-08-01T15:14:44.197Z pw:api   waiting for element to be visible, enabled and stable
+2024-08-01T15:14:44.231Z pw:api   element is visible, enabled and stable
+2024-08-01T15:14:44.231Z pw:api   scrolling into view if needed
+2024-08-01T15:14:44.236Z pw:api   done scrolling
+2024-08-01T15:14:44.243Z pw:api   <div _ngcontent-thx-c98="" class="custom-loader ng-star-inserted">ΓÇª</div> from <loader-control _nghost-thx-c98="" _ngcontent-thx-c117="">ΓÇª</loader-control> subtree intercepts pointer events
+2024-08-01T15:14:44.243Z pw:api retrying click action, attempt #12
+2024-08-01T15:14:44.243Z pw:api   waiting 500ms
+2024-08-01T15:14:44.758Z pw:api   waiting for element to be visible, enabled and stable
+2024-08-01T15:14:44.781Z pw:api   element is visible, enabled and stable
+2024-08-01T15:14:44.781Z pw:api   scrolling into view if needed
+2024-08-01T15:14:44.782Z pw:api   done scrolling
+2024-08-01T15:14:44.791Z pw:api   <div _ngcontent-thx-c98="" class="custom-loader ng-star-inserted">ΓÇª</div> from <loader-control _nghost-thx-c98="" _ngcontent-thx-c117="">ΓÇª</loader-control> subtree intercepts pointer events
+2024-08-01T15:14:44.791Z pw:api retrying click action, attempt #13
+2024-08-01T15:14:44.791Z pw:api   waiting 500ms
+2024-08-01T15:14:45.297Z pw:api   waiting for element to be visible, enabled and stable
+2024-08-01T15:14:45.331Z pw:api   element is visible, enabled and stable
+2024-08-01T15:14:45.331Z pw:api   scrolling into view if needed
+2024-08-01T15:14:45.337Z pw:api   done scrolling
+2024-08-01T15:14:45.343Z pw:api   <div _ngcontent-thx-c98="" class="custom-loader ng-star-inserted">ΓÇª</div> from <loader-control _nghost-thx-c98="" _ngcontent-thx-c117="">ΓÇª</loader-control> subtree intercepts pointer events
+2024-08-01T15:14:45.343Z pw:api retrying click action, attempt #14
+2024-08-01T15:14:45.343Z pw:api   waiting 500ms
+2024-08-01T15:14:45.854Z pw:api   waiting for element to be visible, enabled and stable
+2024-08-01T15:14:45.881Z pw:api   element is visible, enabled and stable
+2024-08-01T15:14:45.881Z pw:api   scrolling into view if needed
+2024-08-01T15:14:45.886Z pw:api   done scrolling
+2024-08-01T15:14:45.893Z pw:api   <div _ngcontent-thx-c98="" class="custom-loader ng-star-inserted">ΓÇª</div> from <loader-control _nghost-thx-c98="" _ngcontent-thx-c117="">ΓÇª</loader-control> subtree intercepts pointer events
+2024-08-01T15:14:45.893Z pw:api retrying click action, attempt #15
+2024-08-01T15:14:45.893Z pw:api   waiting 500ms
+2024-08-01T15:14:46.413Z pw:api   waiting for element to be visible, enabled and stable
+2024-08-01T15:14:46.448Z pw:api   element is visible, enabled and stable
+2024-08-01T15:14:46.448Z pw:api   scrolling into view if needed
+2024-08-01T15:14:46.453Z pw:api   done scrolling
+2024-08-01T15:14:46.461Z pw:api   <div _ngcontent-thx-c98="" class="custom-loader ng-star-inserted">ΓÇª</div> from <loader-control _nghost-thx-c98="" _ngcontent-thx-c117="">ΓÇª</loader-control> subtree intercepts pointer events
+2024-08-01T15:14:46.461Z pw:api retrying click action, attempt #16
+2024-08-01T15:14:46.461Z pw:api   waiting 500ms
+2024-08-01T15:14:46.979Z pw:api   waiting for element to be visible, enabled and stable
+2024-08-01T15:14:46.998Z pw:api   element is visible, enabled and stable
+2024-08-01T15:14:46.998Z pw:api   scrolling into view if needed
+2024-08-01T15:14:46.999Z pw:api   done scrolling
+2024-08-01T15:14:47.007Z pw:api   performing click action
+2024-08-01T15:14:47.082Z pw:api   click action done
+2024-08-01T15:14:47.082Z pw:api   waiting for scheduled navigations to finish
+2024-08-01T15:14:47.084Z pw:api   navigations have finished
+2024-08-01T15:14:48.093Z pw:api waiting for Locator("//input[contains(@class, 'p-dropdown-filter')]") to be visible
+2024-08-01T15:14:48.098Z pw:api   locator resolved to visible <input type="text" autocomplete="off" aria-activedescendant="p-highlighted-option" class="p-dropdown-filter p-inputtext p-component ng-tns-c51-12"/>
+2024-08-01T15:14:48.106Z pw:api     finding element using the selector "//input[contains(@class, 'p-dropdown-filter')]"
+2024-08-01T15:14:48.114Z pw:api   fill("zam")
+2024-08-01T15:14:48.114Z pw:api attempting fill action
+2024-08-01T15:14:48.116Z pw:api   waiting for element to be visible, enabled and editable
+2024-08-01T15:14:49.153Z pw:api waiting for Locator("body")
+2024-08-01T15:14:49.158Z pw:api   locator resolved to visible <body>ΓÇª</body>
+2024-08-01T15:14:49.165Z pw:api taking element screenshot
+2024-08-01T15:14:49.168Z pw:api waiting for fonts to load...
+2024-08-01T15:14:49.171Z pw:api fonts loaded
+2024-08-01T15:14:49.171Z pw:api attempting scroll into view action
+2024-08-01T15:14:49.171Z pw:api   waiting for element to be stable
+2024-08-01T15:14:51.399Z pw:api waiting for Locator("//span[text()='Filter by Manager']") to be visible
+2024-08-01T15:14:51.413Z pw:api   locator resolved to visible <span class="ng-tns-c51-6 p-dropdown-label p-inputtext p-placeholder ng-star-inserted">Filter by Manager</span>
+2024-08-01T15:14:51.426Z pw:api     finding element using the selector "//span[text()='Filter by Manager']"
+2024-08-01T15:14:51.439Z pw:api attempting click action
+2024-08-01T15:14:51.439Z pw:api   waiting for element to be visible, enabled and stable
+2024-08-01T15:14:51.449Z pw:api   element is visible, enabled and stable
+2024-08-01T15:14:51.449Z pw:api   scrolling into view if needed
+2024-08-01T15:14:51.451Z pw:api   done scrolling
+2024-08-01T15:14:51.458Z pw:api   performing click action
+2024-08-01T15:14:51.484Z pw:api   click action done
+2024-08-01T15:14:51.484Z pw:api   waiting for scheduled navigations to finish
+2024-08-01T15:14:51.486Z pw:api   navigations have finished
+2024-08-01T15:14:52.490Z pw:api waiting for Locator("//span[text()='Filter by Manager']/../div//following-sibling::div//input") to be visible
+2024-08-01T15:14:52.501Z pw:api   locator resolved to visible <input type="text" autocomplete="off" aria-activedescendant="p-highlighted-option" class="p-dropdown-filter p-inputtext p-component ng-tns-c51-6"/>
+2024-08-01T15:14:52.517Z pw:api     finding element using the selector "//span[text()='Filter by Manager']/../div//following-sibling::div//input"
+2024-08-01T15:14:52.527Z pw:api   fill("Adee")
+2024-08-01T15:14:52.527Z pw:api attempting fill action
+2024-08-01T15:14:52.527Z pw:api   waiting for element to be visible, enabled and editable
+2024-08-01T15:14:53.562Z pw:api waiting for Locator("body")
+2024-08-01T15:14:53.575Z pw:api   locator resolved to visible <body>ΓÇª</body>
+2024-08-01T15:14:53.584Z pw:api taking element screenshot
+2024-08-01T15:14:53.589Z pw:api waiting for fonts to load...
+2024-08-01T15:14:53.593Z pw:api fonts loaded
+2024-08-01T15:14:53.593Z pw:api attempting scroll into view action
+2024-08-01T15:14:53.593Z pw:api   waiting for element to be stable
+2024-08-01T15:14:55.812Z pw:api     finding element using the selector "//div[text()='Select Project']"
+2024-08-01T15:14:55.828Z pw:api     finding element using the selector "//div[text()='Select Project']"
+2024-08-01T15:14:55.841Z pw:api attempting click action
+2024-08-01T15:14:55.841Z pw:api   waiting for element to be visible, enabled and stable
+2024-08-01T15:14:55.851Z pw:api   element is visible, enabled and stable
+2024-08-01T15:14:55.851Z pw:api   scrolling into view if needed
+2024-08-01T15:14:55.853Z pw:api   done scrolling
+2024-08-01T15:14:55.859Z pw:api   performing click action
+2024-08-01T15:14:55.891Z pw:api   click action done
+2024-08-01T15:14:55.891Z pw:api   waiting for scheduled navigations to finish
+2024-08-01T15:14:55.893Z pw:api   navigations have finished
+2024-08-01T15:14:56.906Z pw:api     finding element using the selector "//p-multiselect/div/div[4]/div[1]/div[2]/input"
+2024-08-01T15:14:56.932Z pw:api   fill("per")
+2024-08-01T15:14:56.932Z pw:api attempting fill action
+2024-08-01T15:14:56.932Z pw:api   waiting for element to be visible, enabled and editable
+2024-08-01T15:14:57.966Z pw:api waiting for Locator("body")
+2024-08-01T15:14:57.982Z pw:api   locator resolved to visible <body>ΓÇª</body>
+2024-08-01T15:14:57.992Z pw:api taking element screenshot
+2024-08-01T15:14:57.996Z pw:api waiting for fonts to load...
+2024-08-01T15:14:58.001Z pw:api fonts loaded
+2024-08-01T15:14:58.001Z pw:api attempting scroll into view action
+2024-08-01T15:14:58.001Z pw:api   waiting for element to be stable
+2024-08-01T15:14:58.181Z pw:api     finding element using the selector "//p-multiselect/div/div[4]/div[2]/ul/p-multiselectitem/li/div[1]/div"
+2024-08-01T15:15:03.194Z pw:api     finding element using the selector "//label[text()='Filter by Date ']//..//button"
+2024-08-01T15:15:03.214Z pw:api attempting click action
+2024-08-01T15:15:03.215Z pw:api   waiting for element to be visible, enabled and stable
+2024-08-01T15:15:03.236Z pw:api   element is visible, enabled and stable
+2024-08-01T15:15:03.237Z pw:api   scrolling into view if needed
+2024-08-01T15:15:03.238Z pw:api   done scrolling
+2024-08-01T15:15:03.246Z pw:api   performing click action
+2024-08-01T15:15:03.285Z pw:api   click action done
+2024-08-01T15:15:03.285Z pw:api   waiting for scheduled navigations to finish
+2024-08-01T15:15:03.286Z pw:api   navigations have finished
+2024-08-01T15:15:04.290Z pw:api waiting for Locator("body")
+2024-08-01T15:15:04.306Z pw:api   locator resolved to visible <body>ΓÇª</body>
+2024-08-01T15:15:04.316Z pw:api taking element screenshot
+2024-08-01T15:15:04.320Z pw:api waiting for fonts to load...
+2024-08-01T15:15:04.324Z pw:api fonts loaded
+2024-08-01T15:15:04.324Z pw:api attempting scroll into view action
+2024-08-01T15:15:04.324Z pw:api   waiting for element to be stable
+2024-08-01T15:15:04.504Z pw:api     finding element using the selector "//span/div/div/div/div[1]/button[1]"
+2024-08-01T15:15:04.511Z pw:api waiting for Locator("body")
+2024-08-01T15:15:04.515Z pw:api   locator resolved to visible <body>ΓÇª</body>
+2024-08-01T15:15:04.525Z pw:api taking element screenshot
+2024-08-01T15:15:04.527Z pw:api waiting for fonts to load...
+2024-08-01T15:15:04.529Z pw:api fonts loaded
+2024-08-01T15:15:04.529Z pw:api attempting scroll into view action
+2024-08-01T15:15:04.529Z pw:api   waiting for element to be stable
+2024-08-01T15:15:04.696Z pw:api     finding element using the selector "//span/div/div/div/div[2]/table/tbody/tr[1]/td[7]/span"
+2024-08-01T15:15:04.700Z pw:api waiting for Locator("body")
+2024-08-01T15:15:04.706Z pw:api   locator resolved to visible <body>ΓÇª</body>
+2024-08-01T15:15:04.713Z pw:api taking element screenshot
+2024-08-01T15:15:04.715Z pw:api waiting for fonts to load...
+2024-08-01T15:15:04.718Z pw:api fonts loaded
+2024-08-01T15:15:04.718Z pw:api attempting scroll into view action
+2024-08-01T15:15:04.718Z pw:api   waiting for element to be stable
+2024-08-01T15:15:04.882Z pw:api     finding element using the selector "//span/div/div/div/div[1]/button[2]"
+2024-08-01T15:15:04.887Z pw:api waiting for Locator("body")
+2024-08-01T15:15:04.892Z pw:api   locator resolved to visible <body>ΓÇª</body>
+2024-08-01T15:15:04.900Z pw:api taking element screenshot
+2024-08-01T15:15:04.902Z pw:api waiting for fonts to load...
+2024-08-01T15:15:04.906Z pw:api fonts loaded
+2024-08-01T15:15:04.906Z pw:api attempting scroll into view action
+2024-08-01T15:15:04.906Z pw:api   waiting for element to be stable
+2024-08-01T15:15:05.078Z pw:api     finding element using the selector "//span/div/div/div/div[2]/table/tbody/tr[3]/td[5]/span"
+2024-08-01T15:15:05.081Z pw:api waiting for Locator("body")
+2024-08-01T15:15:05.085Z pw:api   locator resolved to visible <body>ΓÇª</body>
+2024-08-01T15:15:05.092Z pw:api taking element screenshot
+2024-08-01T15:15:05.095Z pw:api waiting for fonts to load...
+2024-08-01T15:15:05.097Z pw:api fonts loaded
+2024-08-01T15:15:05.097Z pw:api attempting scroll into view action
+2024-08-01T15:15:05.097Z pw:api   waiting for element to be stable
+2024-08-01T15:15:10.270Z pw:api     finding element using the selector "//h1[text()='Feedback']"
+2024-08-01T15:15:10.287Z pw:api attempting click action
+2024-08-01T15:15:10.288Z pw:api   waiting for element to be visible, enabled and stable
+2024-08-01T15:15:10.306Z pw:api   element is visible, enabled and stable
+2024-08-01T15:15:10.306Z pw:api   scrolling into view if needed
+2024-08-01T15:15:10.308Z pw:api   done scrolling
+2024-08-01T15:15:10.316Z pw:api   performing click action
+2024-08-01T15:15:10.328Z pw:api   click action done
+2024-08-01T15:15:10.328Z pw:api   waiting for scheduled navigations to finish
+2024-08-01T15:15:10.329Z pw:api   navigations have finished
+2024-08-01T15:15:11.333Z pw:api waiting for Locator("body")
+2024-08-01T15:15:11.343Z pw:api   locator resolved to visible <body>ΓÇª</body>
+2024-08-01T15:15:11.361Z pw:api taking element screenshot
+2024-08-01T15:15:11.364Z pw:api waiting for fonts to load...
+2024-08-01T15:15:11.368Z pw:api fonts loaded
+2024-08-01T15:15:11.368Z pw:api attempting scroll into view action
+2024-08-01T15:15:11.368Z pw:api   waiting for element to be stable

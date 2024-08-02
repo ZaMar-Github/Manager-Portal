@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ZamarKhan\\source\\ManagerPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8333AD9F-7ED7-4258-B591-33E3DCA8AF14}|ManagerPortal.csproj|c:\\users\\zamarkhan\\source\\managerportal\\basepage\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8333AD9F-7ED7-4258-B591-33E3DCA8AF14}|ManagerPortal.csproj|solutionrelative:basepage\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333AD9F-7ED7-4258-B591-33E3DCA8AF14}|ManagerPortal.csproj|c:\\users\\zamarkhan\\source\\managerportal\\feedbacktable\\feedbacktable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8333AD9F-7ED7-4258-B591-33E3DCA8AF14}|ManagerPortal.csproj|solutionrelative:feedbacktable\\feedbacktable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333AD9F-7ED7-4258-B591-33E3DCA8AF14}|ManagerPortal.csproj|c:\\users\\zamarkhan\\source\\managerportal\\login\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8333AD9F-7ED7-4258-B591-33E3DCA8AF14}|ManagerPortal.csproj|solutionrelative:login\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333AD9F-7ED7-4258-B591-33E3DCA8AF14}|ManagerPortal.csproj|c:\\users\\zamarkhan\\source\\managerportal\\extentreports\\extentreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8333AD9F-7ED7-4258-B591-33E3DCA8AF14}|ManagerPortal.csproj|solutionrelative:extentreports\\extentreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333AD9F-7ED7-4258-B591-33E3DCA8AF14}|ManagerPortal.csproj|c:\\users\\zamarkhan\\source\\managerportal\\mainexecution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8333AD9F-7ED7-4258-B591-33E3DCA8AF14}|ManagerPortal.csproj|solutionrelative:mainexecution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 354,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\ZamarKhan\\source\\ManagerPortal\\Login\\Login.cs",
+              "RelativeDocumentMoniker": "Login\\Login.cs",
+              "ToolTip": "C:\\Users\\ZamarKhan\\source\\ManagerPortal\\Login\\Login.cs",
+              "RelativeToolTip": "Login\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T06:54:53.076Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainExecution.cs",
+              "DocumentMoniker": "C:\\Users\\ZamarKhan\\source\\ManagerPortal\\MainExecution.cs",
+              "RelativeDocumentMoniker": "MainExecution.cs",
+              "ToolTip": "C:\\Users\\ZamarKhan\\source\\ManagerPortal\\MainExecution.cs",
+              "RelativeToolTip": "MainExecution.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T06:56:41.043Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FeedbackTable.cs",
+              "DocumentMoniker": "C:\\Users\\ZamarKhan\\source\\ManagerPortal\\FeedbackTable\\FeedbackTable.cs",
+              "RelativeDocumentMoniker": "FeedbackTable\\FeedbackTable.cs",
+              "ToolTip": "C:\\Users\\ZamarKhan\\source\\ManagerPortal\\FeedbackTable\\FeedbackTable.cs",
+              "RelativeToolTip": "FeedbackTable\\FeedbackTable.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T10:05:07.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Extentreports.cs",
+              "DocumentMoniker": "C:\\Users\\ZamarKhan\\source\\ManagerPortal\\Extentreports\\Extentreports.cs",
+              "RelativeDocumentMoniker": "Extentreports\\Extentreports.cs",
+              "ToolTip": "C:\\Users\\ZamarKhan\\source\\ManagerPortal\\Extentreports\\Extentreports.cs",
+              "RelativeToolTip": "Extentreports\\Extentreports.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:48:01.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Basepage.cs",
+              "DocumentMoniker": "C:\\Users\\ZamarKhan\\source\\ManagerPortal\\BASEPAGE\\Basepage.cs",
+              "RelativeDocumentMoniker": "BASEPAGE\\Basepage.cs",
+              "ToolTip": "C:\\Users\\ZamarKhan\\source\\ManagerPortal\\BASEPAGE\\Basepage.cs",
+              "RelativeToolTip": "BASEPAGE\\Basepage.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAnwHoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T06:02:48.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 113,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
